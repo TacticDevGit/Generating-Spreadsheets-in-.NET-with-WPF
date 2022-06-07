@@ -1,0 +1,26 @@
+C:\Users\Jamie\source\repos\Generating Excel Files\Generating Excel Files\bin\Debug\net6.0-windows\Generating Excel Files.exe
+C:\Users\Jamie\source\repos\Generating Excel Files\Generating Excel Files\bin\Debug\net6.0-windows\Excel.png
+C:\Users\Jamie\source\repos\Generating Excel Files\Generating Excel Files\bin\Debug\net6.0-windows\Generating Excel Files.deps.json
+C:\Users\Jamie\source\repos\Generating Excel Files\Generating Excel Files\bin\Debug\net6.0-windows\Generating Excel Files.runtimeconfig.json
+C:\Users\Jamie\source\repos\Generating Excel Files\Generating Excel Files\bin\Debug\net6.0-windows\Generating Excel Files.dll
+C:\Users\Jamie\source\repos\Generating Excel Files\Generating Excel Files\bin\Debug\net6.0-windows\ref\Generating Excel Files.dll
+C:\Users\Jamie\source\repos\Generating Excel Files\Generating Excel Files\bin\Debug\net6.0-windows\Generating Excel Files.pdb
+C:\Users\Jamie\source\repos\Generating Excel Files\Generating Excel Files\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\Jamie\source\repos\Generating Excel Files\Generating Excel Files\bin\Debug\net6.0-windows\SpreadsheetLight.dll
+C:\Users\Jamie\source\repos\Generating Excel Files\Generating Excel Files\obj\Debug\net6.0-windows\Generating Excel Files.csproj.AssemblyReference.cache
+C:\Users\Jamie\source\repos\Generating Excel Files\Generating Excel Files\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Jamie\source\repos\Generating Excel Files\Generating Excel Files\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Jamie\source\repos\Generating Excel Files\Generating Excel Files\obj\Debug\net6.0-windows\Generating Excel Files_Content.g.cs
+C:\Users\Jamie\source\repos\Generating Excel Files\Generating Excel Files\obj\Debug\net6.0-windows\Generating Excel Files_MarkupCompile.cache
+C:\Users\Jamie\source\repos\Generating Excel Files\Generating Excel Files\obj\Debug\net6.0-windows\Generating Excel Files_MarkupCompile.lref
+C:\Users\Jamie\source\repos\Generating Excel Files\Generating Excel Files\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Jamie\source\repos\Generating Excel Files\Generating Excel Files\obj\Debug\net6.0-windows\Generating Excel Files.g.resources
+C:\Users\Jamie\source\repos\Generating Excel Files\Generating Excel Files\obj\Debug\net6.0-windows\Generating Excel Files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamie\source\repos\Generating Excel Files\Generating Excel Files\obj\Debug\net6.0-windows\Generating Excel Files.AssemblyInfoInputs.cache
+C:\Users\Jamie\source\repos\Generating Excel Files\Generating Excel Files\obj\Debug\net6.0-windows\Generating Excel Files.AssemblyInfo.cs
+C:\Users\Jamie\source\repos\Generating Excel Files\Generating Excel Files\obj\Debug\net6.0-windows\Generating Excel Files.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\source\repos\Generating Excel Files\Generating Excel Files\obj\Debug\net6.0-windows\Generating Excel Files.csproj.CopyComplete
+C:\Users\Jamie\source\repos\Generating Excel Files\Generating Excel Files\obj\Debug\net6.0-windows\Generating Excel Files.dll
+C:\Users\Jamie\source\repos\Generating Excel Files\Generating Excel Files\obj\Debug\net6.0-windows\ref\Generating Excel Files.dll
+C:\Users\Jamie\source\repos\Generating Excel Files\Generating Excel Files\obj\Debug\net6.0-windows\Generating Excel Files.pdb
+C:\Users\Jamie\source\repos\Generating Excel Files\Generating Excel Files\obj\Debug\net6.0-windows\Generating Excel Files.genruntimeconfig.cache
